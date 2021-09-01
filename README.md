@@ -8,7 +8,7 @@
 ## Technologies & tools
 
 ![Editor](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
-![Editor](https://img.shields.io/badge/Editor-Inteliji%20IDEA-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)  
+![Editor](https://img.shields.io/badge/Editor-Rider-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)  
 
 ![Code](https://img.shields.io/badge/Code-C%23-2bbc8a)
 ![Code](https://img.shields.io/badge/Code-.NET%205-2bbc8a)
