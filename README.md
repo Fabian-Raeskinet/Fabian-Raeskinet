@@ -2,7 +2,7 @@
 
 👋 Hi there, I'm Fabian Raeskinet  
 💻 I'm a fullstack developer (.NET & React)  
-📙 Currently working as Analyst | Software Developer at [Avanade](https://www.avanade.com/en)  
+📙 Currently working as Analyst | Software Engineer Consultant at [Avanade](https://www.avanade.com/en)  
 ✉️ Want to chat ? Contact me [on discord](https://discord.com/users/300304215467622400) or by email : fabian.raeskinet@hotmail.com  
 
 ## Technologies & tools
