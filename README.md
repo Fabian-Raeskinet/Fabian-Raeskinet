@@ -1,8 +1,7 @@
 # Fabian Raeskinet
 
 👋 Hi there, I'm Fabian Raeskinet  
-💻 I'm a fullstack developer (.NET & React)  
-📙 Currently working as Analyst | Software Engineer Consultant at [Avanade](https://www.avanade.com/en)  
+💻 I'm a Freelance fullstack developer (.NET & React)  
 ✉️ Want to chat ? Contact me [on LinkedIn](https://www.linkedin.com/in/fabian-raeskinet/) or by email : fabian.raeskinet@hotmail.com  
 
 ## Technologies & tools
