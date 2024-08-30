@@ -24,7 +24,3 @@
 
 ![Database](https://img.shields.io/badge/Database-SQL-2bbc8a)
 ![Database](https://img.shields.io/badge/Database-NoSQL-2bbc8a)
-
-## Previous Experiences
-* [MIC Belgique](https://www.mic-belgique.be/)
-* [Sparkle SRL](https://www.sparkle.tech/)
